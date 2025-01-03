@@ -10,12 +10,9 @@ body {
     background-color: rgb(30, 30, 30);
 }
 
-/* 日间模式样式 */
-.day-mode {
-    background-color: #ffffff;
-    color: #000000;
+body a {
+    color: pink;
 }
-
 
 .post {
     width: 80%;
@@ -37,7 +34,7 @@ body {
 
 .card:hover {
     background-color: rgb(100, 0, 17);
-    transform: scale(1.1);
+    transform: scale(1.08);
 }
 
 .card img {
